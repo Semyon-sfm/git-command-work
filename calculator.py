@@ -6,8 +6,7 @@ def add(a, b):
 
 
 def subtract(a, b):
-    # БАГ: вычитание работает неправильно
-    return a + b
+    return a - b
 
 
 def multiply(a, b):
